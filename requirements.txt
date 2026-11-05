@@ -1,0 +1,6 @@
+transformers==4.57.6
+torch
+gradio
+accelerate
+sentencepiece
+safetensors
